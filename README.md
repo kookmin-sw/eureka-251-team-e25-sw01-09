@@ -24,7 +24,7 @@ compile our passion execute our dream!
 
 ***
 
-## 2️⃣ 공통된 관심사 : 여행, 백엔드, 인공지능
+## 2️⃣ 공통된 관심사 : 음악듣기, 산책하기 
 
 ***
 
