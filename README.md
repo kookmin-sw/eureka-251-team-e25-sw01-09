@@ -1,6 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
 # Welcome to code9팀
 
+## 우리가 상상한 미래
+<img width="666" height="938" alt="image" src="https://github.com/user-attachments/assets/126879e8-bcc4-472d-b354-6ea0abb31f5f" />
+
+
 ## 1️⃣ 팀원 소개
 
 | **이름** | **전공** | **관심사** |
@@ -110,11 +114,6 @@ ai 재활용 로봇의 미래
 4. 공공 인프라 연계
  도시의 스마트 쓰레기통, 드론 수거 시스템, 물류 로봇과 네트워크로 연결되어 전체 도시의 재활용률과 폐기물 흐름을 실시간으로 관리함.
  결론적으로 AI 재활용 로봇은 자원을 정확히 분류하고 효율적으로 관리함으로써 재활용률을 높이고 인력 부담과 환경 오염을 줄이는 스마트 순환도시를 만들 수 있게 됨
-
-
-## 우리가 상상한 미래
-<img width="666" height="938" alt="image" src="https://github.com/user-attachments/assets/126879e8-bcc4-472d-b354-6ea0abb31f5f" />
-
 
 - 각오와 소감 나누기 ✔️  
 
